@@ -1,0 +1,26 @@
+@font-face{
+	src:url(aladdin.ttf);
+	font-family: aladdin;
+}
+/*Head*/
+#head{
+	background-color: black;
+	background-size: cover;
+	color: #ffffff;
+	font-size: 7vw;
+	text-align: center;
+	margin-top: -10vw;
+	margin-left: -6%;
+	margin-right: -6%;
+}
+#Destiny{
+	color: gold;
+	font-family: aladdin;
+}
+#slogan{
+	font-size: 5vw;
+}
+#info{
+	font-size: 1.5vw;
+}
+/*Head End*/
